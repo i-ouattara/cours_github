@@ -2,3 +2,4 @@
 nouveau_dossier/cours_*.txt
 *.jpg
 .venv/
+__pycache__/

@@ -1,5 +1,5 @@
 from fireducks import pandas as fpd
-def upper(s):
+def upper_case(s):
     return s.upper()
 
 def lower_case(input_string):
